@@ -1,0 +1,10 @@
+#if you have to calculate any numerical problem by taking input from the user you must convert variable in int or float acc. to your need.
+a = int(input('enter first number :' ))
+b = int(input('enter second number :' ))
+# print(type(b))
+# print(type(a))
+c=(b * a)
+print(c)
+print(type(b))
+print(type(a))
+print(type(c))
